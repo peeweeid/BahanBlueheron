@@ -3,48 +3,48 @@
         "id" : 1,
         "nama" : "Food Resto 1",
         "harga": "Rp.110.000",
-        "Image":"https://drive.google.com/file/d/1VvT4xTykviKh3ER5UmiJVGSUjb8E6xFF/view?usp=share_link"
+        "Image":"https://github.com/peeweeid/BahanBlueheron/blob/main/image/Food1.png"
     },
     {
         "id" : 2,
         "nama" : "Food Resto 2",
         "harga": "Rp.100.000",
-        "Image":"https://drive.google.com/file/d//view?usp=share_link"
+        "Image":"https://github.com/peeweeid/BahanBlueheron/blob/main/image/Food2.png"
     },
     {
         "id" : 3,
         "nama" : "Food Resto 3",
         "harga": "Rp.105.000",
-        "Image":"https://drive.google.com/file/d//view?usp=share_link"
+        "Image":"https://github.com/peeweeid/BahanBlueheron/blob/main/image/Food3.png"
     },
     {
         "id" : 4,
         "nama" : "Food Resto 4",
         "harga": "Rp.100.000",
-        "Image":"https://drive.google.com/file/d//view?usp=share_link"
+        "Image":"https://github.com/peeweeid/BahanBlueheron/blob/main/image/Food4.png"
     },
     {
         "id" : 5,
         "nama" : "Food Resto 5",
         "harga": "Rp.90.000",
-        "Image":"https://drive.google.com/file/d//view?usp=share_link"
+        "Image":"https://github.com/peeweeid/BahanBlueheron/blob/main/image/Food5.png"
     },
     {
         "id" : 6,
         "nama" : "Drink Resto 1",
         "harga": "Rp.40.000",
-        "Image":"https://drive.google.com/file/d//view?usp=share_link"
+        "Image":"https://github.com/peeweeid/BahanBlueheron/blob/main/image/drink1.png"
     },
     {
         "id" : 7,
         "nama" : "Drink Resto 2",
         "harga": "Rp.50.000",
-        "Image":"https://drive.google.com/file/d//view?usp=share_link"
+        "Image":"https://github.com/peeweeid/BahanBlueheron/blob/main/image/drink2.png"
     },
     {
         "id" : 8,
-        "nama" : "Dessert Resto 2",
+        "nama" : "Dessert Resto 1",
         "harga": "Rp.60.000",
-        "Image":"https://drive.google.com/file/d//view?usp=share_link"
+        "Image":"https://github.com/peeweeid/BahanBlueheron/blob/main/image/dessert1.png"
     }
 ]
